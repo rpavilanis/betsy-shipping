@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 ruby '2.3.1'
 
 ### RAILS ####
+# 'zipcodes'
+gem 'zip-codes'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.7'
 # Use SCSS for stylesheets
